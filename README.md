@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @4tzer
-- 👀 I’m interested in Unity3d, c4d, music creation, programming, 
+- 👀 I’m interested in Unity3d, c4d, music creation, programming, ai 
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.axekooi.nl
